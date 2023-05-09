@@ -1,0 +1,14 @@
+reddit_credentials:
+  reddit_client_id: "g_JCowS5E8CEneaOh6sQrA"
+  reddit_client_secret: "B1tS_weEVZs_un2ws1uqHPdr7sOe0Q"
+  reddit_user_agent: "automate_email"
+  reddit_username: "__the__person__"
+  # reddit_password: "YOUR_REDDIT_PASSWORD"
+
+email_configuration:
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587
+  smtp_username: "boughtonbd@gmail.com"
+  # smtp_password: "YOUR_EMAIL_PASSWORD"
+  email_from: "boughtonbd@gmail.com"
+  email_to: "boughtonbd@gmail.com"
